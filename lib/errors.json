@@ -1,0 +1,54 @@
+{
+  "errorCodes": {
+    "56f8dbcf3e56b04f0875ceae": {
+      "eMsg": "Internal Dynamo Error",
+      "description": "Internal Dynamo Error",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceaf": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb0": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb1": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb2": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb3": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb4": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb5": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb6": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "56f8dbcf3e56b04f0875ceb7": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    }
+  }
+}
